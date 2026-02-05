@@ -1,8 +1,8 @@
-# Nijesh Kanjinghat
+# Kanjinghat Nijesh (Nijesh)
 
 ## AI Engineering × Research Engineering
 
-**Reasoning Systems • LLM Infrastructure • Mechanistic Interpretability • AI Governance**
+**MLOps and LLM • Reasoning Systems • Inference Optimization • Responsible AI • Scalable AI Engineering**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Reasoning_Models-black?style=flat-square" />
@@ -39,11 +39,13 @@ I design and operationalize large-scale intelligent systems at the boundary betw
   <img src="https://img.shields.io/badge/Governance-Risk_&_Compliance_Frameworks-1f1f1f?style=flat-square" />
 </p>
 
-- Mechanistic interpretability of transformer circuits  
+- Mechanistic interpretability of transformer circuits
+- Architecting and evaluating Multi-Agent Systems 
 - Structured reasoning and multi-step inference  
-- Alignment-aware system design  
+- RL Algorithms 
 - LLM evaluation: faithfulness, robustness, coordination  
-- Governance pipelines for AI risk & compliance  
+- Governance pipelines for AI risk & compliance
+- Quantum Safe 
 
 ---
 
