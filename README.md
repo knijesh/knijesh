@@ -5,14 +5,15 @@
 **MLOps and LLM • Reasoning Systems • Inference Optimization • Responsible AI • Scalable AI Engineering**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-LLM_Inference-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AI_Engineering-black?style=flat-square" />
-   <img src="https://img.shields.io/badge/Focus-MLOps-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Multi--Agent_Systems-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Interpretability-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Responsible_AI-black?style=flat-square" />
-   <img src="https://img.shields.io/badge/Focus-Reasoning_Models-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-LLM_Inference-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI_Engineering-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-MLOps-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Multi--Agent_Systems-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Interpretability-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Responsible_AI-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Reasoning_Models-0A66C2?style=flat-square" />
 </p>
+
 
 ---
 
