@@ -17,7 +17,7 @@
 
 ---
 
-I lead , design and operationalize large-scale AI and Agentic systems at the boundary between research and production.
+I lead ,design and operationalize large-scale AI and Agentic systems at the boundary between research and production.
 
 
 ### My work focuses on:
