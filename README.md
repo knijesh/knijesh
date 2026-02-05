@@ -5,12 +5,13 @@
 **MLOps and LLM • Reasoning Systems • Inference Optimization • Responsible AI • Scalable AI Engineering**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Reasoning_Models-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-LLM_Inference-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI_Engineering-black?style=flat-square" />
+   <img src="https://img.shields.io/badge/Focus-MLOps-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Multi--Agent_Systems-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Mechanistic_Interpretability-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AI_Governance-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Interpretability-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Responsible_AI-black?style=flat-square" />
+   <img src="https://img.shields.io/badge/Focus-Reasoning_Models-black?style=flat-square" />
 </p>
 
 ---
@@ -25,26 +26,8 @@ I design and operationalize large-scale intelligent systems at the boundary betw
 - Engineering efficient training & inference stacks  
 - Understanding model internals (interpretability & transparency)  
 - Building governance-aware AI infrastructure  
-- Evaluating and monitoring AI systems in production  
-
----
-
-## Research Directions
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Models-Recursive_&_Reasoning_Architectures-1f1f1f?style=flat-square" />
-  <img src="https://img.shields.io/badge/RL-RLHF_|_GRPO-1f1f1f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interpretability-Mechanistic_Analysis-1f1f1f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Evaluation-Multi--Agent_Coordination-1f1f1f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Governance-Risk_&_Compliance_Frameworks-1f1f1f?style=flat-square" />
-</p>
-
-- Mechanistic interpretability of transformer circuits
-- Architecting and evaluating Multi-Agent Systems 
-- Structured reasoning and multi-step inference  
-- RL Algorithms 
-- LLM evaluation: faithfulness, robustness, coordination  
-- Governance pipelines for AI risk & compliance
+- Evaluating and monitoring AI systems in production
+- Reinforcement Learning
 - Quantum Safe 
 
 ---
