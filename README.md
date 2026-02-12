@@ -91,10 +91,11 @@ I work at that intersection.
 
 If you're working on:
 
-- Mechanistic interpretability research  
+- Mechanistic interpretability
+- MultiAgent Evaluation   
 - Frontier reasoning models  
-- Agentic AI infrastructure  
-- Governance-aware AI systems  
-- Scalable LLM inference stacks  
+- Agentic AI infrastructure
+- Scalable LLM inference stacks 
+- Governance-aware AI systems
 
-I’m open to serious technical collaboration.
+I’m open to serious technical collaboration. Feel free to buzz !
