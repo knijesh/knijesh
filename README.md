@@ -26,7 +26,8 @@ I lead ,design and operationalize large-scale AI and Agentic systems at the boun
 - Ops-MLOps,LLMOps and AgentOps
 - Scaling reasoning capability in LLMs  
 - Engineering efficient training & inference stacks  
-- Understanding model internals (interpretability & transparency)  
+- Understanding model internals (interpretability & transparency)
+- Mechanistic Interpretability
 - Building governance-aware AI infrastructure  
 - Evaluating and monitoring AI systems in production
 - Reinforcement Learning
