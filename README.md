@@ -25,13 +25,13 @@ I lead ,design and operationalize large-scale AI and Agentic systems at the boun
 - AI Engineering with LLM/VLM
 - Ops-MLOps,LLMOps and AgentOps
 - Scaling reasoning capability in LLMs  
-- Engineering efficient training & inference stacks  
+- Engineering efficient training & inference stacks
+- Evaluating and monitoring AI systems in production
 - Understanding model internals (interpretability & transparency)
 - Mechanistic Interpretability
 - Building governance-aware AI infrastructure  
-- Evaluating and monitoring AI systems in production
 - Reinforcement Learning
-- Quantum Safe 
+  
 
 ---
 
@@ -57,45 +57,31 @@ I lead ,design and operationalize large-scale AI and Agentic systems at the boun
 - LLM evaluation & benchmarking frameworks  
 - AI governance lifecycle: tracking → evaluation → monitoring → risk controls  
 
----
-
-## Systems Perspective
-
-Frontier AI is not only a scaling problem.  
-It is a systems problem.
-
-Capability, interpretability, efficiency, alignment, and governance must be engineered together.
-
-Research without deployment constraints is incomplete.  
-Deployment without alignment is irresponsible.
-
-I work at that intersection.
-
----
+<p align="left">
 
 ## Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nijeshkanjinghat/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin" />
+  <a href="https://nijesh.ai">
+    <img src="https://img.shields.io/badge/nijesh.ai-111827?style=flat-square&logo=windowsterminal&logoColor=white" />
   </a>
-  <a href="https://medium.com/@nijesh-kanjinghat">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium" />
+  <a href="https://www.linkedin.com/in/knijesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/nijeshk">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github" />
+  <a href="https://huggingface.co/NijeshK">
+    <img src="https://img.shields.io/badge/Hugging_Face-111827?style=flat-square&logo=huggingface&logoColor=white" />
   </a>
+  
 </p>
 
----
+<p align="left">
 
 If you're working on:
 
-- Mechanistic interpretability
 - MultiAgent Evaluation   
 - Frontier reasoning models  
 - Agentic AI infrastructure
-- Scalable LLM inference stacks 
+- Scalable LLM inference stacks
+- Mechanistic interpretability
 - Governance-aware AI systems
 
 I’m open to serious technical collaboration. Feel free to buzz !
+</p>
