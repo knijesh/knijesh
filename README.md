@@ -2,7 +2,7 @@
 
 ## AI Engineering × Research Engineering
 
-**MLOps and LLM • Reasoning Systems • Inference Optimization • Responsible AI • Scalable AI Engineering**
+**MLOps and LLM • Agentic Systems and Harnesses • Inference Optimization • Responsible AI • Scalable AI Engineering**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-LLM_Inference-0A66C2?style=flat-square" />
